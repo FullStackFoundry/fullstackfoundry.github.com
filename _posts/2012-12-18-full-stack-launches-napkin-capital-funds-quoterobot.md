@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Full Stack launches as Vancouver example of 'napkin capital', funds QuoteRobot team"
-date: "December 18, 2012"
-icon: "buildings"
+title: Full Stack launches as Vancouver example of 'napkin capital', funds QuoteRobot team
+date: December 18, 2012
+icon: buildings
 categories: news
 ---
 
