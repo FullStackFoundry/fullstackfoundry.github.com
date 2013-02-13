@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Full Stack launches as Vancouver example of 'napkin capital', funds Quote Robot team"
+title: "Full Stack launches as Vancouver example of 'napkin capital', funds QuoteRobot team"
 categories: news
 ---
 _December 18, 2012 • Vancouver, BC_
