@@ -9,7 +9,7 @@
 	// options
 	var opts = {
 	    url:    $.url(),    // a jquery plugin for working with urls
-	    live:   true,      // set true for deploying site
+	    live:   true,       // set true for deploying site
 	    base:   ''          // this gets adjusted on local so js works properly testing
 	};
 	
@@ -50,11 +50,27 @@
         
         // blog pages
         crossroads.addRoute(opts.base + '/post.html', function(){
-            console.log('post');
+            self.initBlog();
         });        
         
         // initiate route detection - use url.js to get current path
         crossroads.parse(opts.url.attr('path'));
+    }
+
+    Fullstack.prototype.initBlog = function() {
+        var self = this;
+        
+        // disable links that don't go anywhere yet
+        $('a[href="#"]').live('click', function(e){
+            e.preventDefault();
+            alert("This link doesn't work yet, sorry.");
+        });
+        
+        // disable subscribe form for now
+        $('form.subscribe').submit(function(e){
+            e.preventDefault();
+            alert("Sorry, subscribe isn't working yet.");
+        });
     }
 
 	/*
