@@ -14,8 +14,6 @@ categories: news
 
 <p>Full Stack is proud to announce their first investment, Input Logic, based in Nanaimo, BC. Shawn &amp; Gavin of Input Logic have a long history of great design and innovative technology development. They are the team behind <a href="https://angel.co/quoterobot">QuoteRobot</a>, the very best way to create &amp; send winning proposals. QuoteRobot recently went through a full 2.0 rebuild and is being quickly adopted by web designers and developers everywhere.</p>
 
-<img src="images/img-placeholder.png" />
-
 <p>The Full Stack investment will allow Input Logic to focus on marketing and distribution of QuoteRobot, further integrations into other systems, and developing enterprise and higher end offerings for different quoting verticals.</p>
 
 <p>Full Stack plans to invest in 2 - 3 companies per year, and will be launching their full website, including more details about their approach to talent + tools + capital, in January 2013.</p>
