@@ -1,0 +1,32 @@
+{% include head.html %}
+  
+    <header>
+        <div class="container">
+            <a href="http://fullstack.ca" class="home-link"><img src="/images/logo-blog.png" alt="Full Stack" class="logo" /></a>
+            <ul class="jsnav">
+                <li><a href="http://fullstack.ca"><span class="ss-icon">navigateleft</span>Back To Full Site</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <section class="page">
+        
+        <div class="container">
+                                    
+        <h1>{{ page.title }}</h1>
+        
+        <span class="hex grey">
+            <span class="shape">&#x2B22;</span>
+            <span class="ss-icon">{{ page.icon }}</span>
+        </span>
+
+        {{ content }}
+        
+        </div>
+        
+    </section>
+
+{% include footer.html %}
+
+
+    
