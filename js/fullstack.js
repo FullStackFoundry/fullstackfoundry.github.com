@@ -48,6 +48,14 @@
             self.initScrolling();
         });      
         
+        // temp home page
+        crossroads.addRoute(opts.base + '/index-new.html', function(){
+            
+            // initiate map + scrolling stuff
+            self.initMap();
+            self.initScrolling();
+        });        
+        
         // blog pages
         crossroads.addRoute(opts.base + '/post.html', function(){
             self.initBlog();
