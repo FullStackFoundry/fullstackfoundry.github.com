@@ -1,36 +1,24 @@
 ---
 layout: post
 title: "Full Stack launches as Vancouver example of 'napkin capital', funds QuoteRobot team"
+date: "December 18, 2012"
+icon: "buildings"
 categories: news
 ---
-_December 18, 2012 • Vancouver, BC_
 
+<p class="intro">Full Stack is a new kind of investment vehicle we're calling "napkin capital". Napkin capital focuses on relationships with great talent, is opinionated about tools and best practices, and provides angel-stage capital at the earliest stages of web startups.</p>
 
-<div><p class="lead">Full Stack is a new kind of investment vehicle we're calling "napkin capital". Napkin capital focuses on relationships with great talent, is opinionated about tools and best practices, and provides angel-stage capital at the earliest stages of web startups.</p></div>
-<div>
-<br> 
-</div>
-<div>
-<a href="http://angel.co/borismann">Boris Mann</a> and <a href="https://angel.co/elty-1">Lance Tracey</a> are long time partners who are joining forces to kick off Full Stack.
-</div>
-<div>
-<br> 
-</div>
-<div>Boris Mann previously founded Bootup Labs, the first startup accelerator in Canada, and is a well-known web entrepreneur &amp; community agitator. Lance is a legendary Vancouver investor who has been involved in the technology ecosystem for decades. He is co-founder of Sutton Realty, chairman of the board at PEER1, and first funded Boris at Bryght back in 2004.</div>
-<div>
-<br> 
-</div>
-<div>Full Stack is proud to announce their first investment, Input Logic, based in Nanaimo, BC. Shawn &amp; Gavin of Input Logic have a long history of great design and innovative technology development. They are the team behind <a href="https://angel.co/quoterobot">QuoteRobot</a>, the very best way to create &amp; send winning proposals.
+<p><a href="http://angel.co/borismann">Boris Mann</a> and <a href="https://angel.co/elty-1">Lance Tracey</a> are long time partners who are joining forces to kick off Full Stack.</p>
 
-QuoteRobot recently went through a full 2.0 rebuild and is being quickly adopted by web designers and developers everywhere.</div>
-<div>
-<br> 
-</div>
-<div>The Full Stack investment will allow Input Logic to focus on marketing and distribution of QuoteRobot, further integrations into other systems, and developing enterprise and higher end offerings for different quoting verticals.</div>
-<div>
-<br> 
-</div>
-<div>Full Stack plans to invest in 2 - 3 companies per year, and will be launching their full website, including more details about their approach to talent + tools + capital, in January 2013.</div>
+<p>Boris Mann previously founded Bootup Labs, the first startup accelerator in Canada, and is a well-known web entrepreneur & community agitator. Lance is a legendary Vancouver investor who has been involved in the technology ecosystem for decades. He is co-founder of Sutton Realty, chairman of the board at PEER1, and first funded Boris at Bryght back in 2004.</p>
+
+<p>Full Stack is proud to announce their first investment, Input Logic, based in Nanaimo, BC. Shawn & Gavin of Input Logic have a long history of great design and innovative technology development. They are the team behind <a href="https://angel.co/quoterobot">QuoteRobot</a>, the very best way to create & send winning proposals. QuoteRobot recently went through a full 2.0 rebuild and is being quickly adopted by web designers and developers everywhere.</p>
+
+<img src="images/img-placeholder.png" />
+
+<p>The Full Stack investment will allow Input Logic to focus on marketing and distribution of QuoteRobot, further integrations into other systems, and developing enterprise and higher end offerings for different quoting verticals.</p>
+
+<p>Full Stack plans to invest in 2 - 3 companies per year, and will be launching their full website, including more details about their approach to talent + tools + capital, in January 2013.</p>
 
 ### Coverage
 <ul>
