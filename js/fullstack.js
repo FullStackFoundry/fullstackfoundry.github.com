@@ -57,6 +57,9 @@
         crossroads.parse(opts.url.attr('path'));
     }
 
+	/*
+		INIT BLOG
+	*/
     Fullstack.prototype.initBlog = function() {
         var self = this;
         
