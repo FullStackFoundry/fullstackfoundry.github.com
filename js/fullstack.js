@@ -40,7 +40,15 @@
             // initiate map + scrolling stuff
             self.initMap();
             self.initScrolling();
-        });          
+        });     
+        
+        // temporary home page
+        crossroads.addRoute('/index-template.html', function(){
+            
+            // initiate map + scrolling stuff
+            self.initMap();
+            self.initScrolling();
+        });             
         
         // blog pages
         crossroads.addRoute('/post.html', function(){
