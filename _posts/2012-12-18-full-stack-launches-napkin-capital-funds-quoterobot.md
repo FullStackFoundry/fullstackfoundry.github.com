@@ -10,9 +10,9 @@ categories: news
 
 <p><a href="http://angel.co/borismann">Boris Mann</a> and <a href="https://angel.co/elty-1">Lance Tracey</a> are long time partners who are joining forces to kick off Full Stack.</p>
 
-<p>Boris Mann previously founded Bootup Labs, the first startup accelerator in Canada, and is a well-known web entrepreneur & community agitator. Lance is a legendary Vancouver investor who has been involved in the technology ecosystem for decades. He is co-founder of Sutton Realty, chairman of the board at PEER1, and first funded Boris at Bryght back in 2004.</p>
+<p>Boris Mann previously founded Bootup Labs, the first startup accelerator in Canada, and is a well-known web entrepreneur &amp; community agitator. Lance is a legendary Vancouver investor who has been involved in the technology ecosystem for decades. He is co-founder of Sutton Realty, chairman of the board at PEER1, and first funded Boris at Bryght back in 2004.</p>
 
-<p>Full Stack is proud to announce their first investment, Input Logic, based in Nanaimo, BC. Shawn & Gavin of Input Logic have a long history of great design and innovative technology development. They are the team behind <a href="https://angel.co/quoterobot">QuoteRobot</a>, the very best way to create & send winning proposals. QuoteRobot recently went through a full 2.0 rebuild and is being quickly adopted by web designers and developers everywhere.</p>
+<p>Full Stack is proud to announce their first investment, Input Logic, based in Nanaimo, BC. Shawn &amp; Gavin of Input Logic have a long history of great design and innovative technology development. They are the team behind <a href="https://angel.co/quoterobot">QuoteRobot</a>, the very best way to create &amp; send winning proposals. QuoteRobot recently went through a full 2.0 rebuild and is being quickly adopted by web designers and developers everywhere.</p>
 
 <img src="images/img-placeholder.png" />
 
@@ -23,5 +23,5 @@ categories: news
 ### Coverage
 <ul>
 <li><a href="http://www.techvibes.com/blog/napkin-capital-full-stack-2012-12-18">View post on Techvibes</a></li>
-<li>Mentioned in Mark Evans' <a href="http://us2.campaign-archive1.com/?u=24393bb878c6ebb7cb77f5532&id=0602b1d756">This Week in Canadian Startups</a></li>
+<li>Mentioned in Mark Evans' <a href="http://us2.campaign-archive1.com/?u=24393bb878c6ebb7cb77f5532&amp;id=0602b1d756">This Week in Canadian Startups</a></li>
 </ul>
