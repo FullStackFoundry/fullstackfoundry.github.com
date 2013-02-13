@@ -8,9 +8,7 @@
     
 	// options
 	var opts = {
-	    url:    $.url(),    // a jquery plugin for working with urls
-	    live:   true,       // set true for deploying site
-	    base:   ''          // this gets adjusted on local so js works properly testing
+	    url:    $.url()    // a jquery plugin for working with urls
 	};
 	
 	// namespace rawr
@@ -25,10 +23,6 @@
 	*/	
 	Fullstack.prototype.init = function() {
 	    var self = this;
-	    
-	    // if running locally, append to base url
-	    if(!opts.live)
-	        opts.base = '/fullstack'	    
 	}
 
 	/*
@@ -41,28 +35,23 @@
         console.log(opts.url.attr('path'));
         
         // home page
-        crossroads.addRoute(opts.base + '/', function(){
+        crossroads.addRoute('/', function(){
             
             // initiate map + scrolling stuff
             self.initMap();
             self.initScrolling();
-        });      
-        
-        // temp home page
-        crossroads.addRoute(opts.base + '/index-new.html', function(){
-            
-            // initiate map + scrolling stuff
-            self.initMap();
-            self.initScrolling();
-        });        
+        });          
         
         // blog pages
-        crossroads.addRoute(opts.base + '/post.html', function(){
+        crossroads.addRoute('/post.html', function(){
             self.initBlog();
         });        
-        
+                
         // initiate route detection - use url.js to get current path
         crossroads.parse(opts.url.attr('path'));
+        
+        // init footer (stuff for all pages)
+        self.initFooter();        
     }
 
 	/*
@@ -161,6 +150,24 @@
         
         map.addLayer(markerLayer).setExtent(markerLayer.extent());
         map.centerzoom({lat: 49.28247, lon: -123.103423 }, 16);	    
+	}
+	
+	/*
+		INIT FOOTER
+		- used on all pages
+	*/	
+	Fullstack.prototype.initFooter = function() {
+	    var self = this;
+	    
+	    $(document).ready(function(){
+	       
+	        // make form subscribe work
+	        $('a.subscribe-btn').click(function(e){
+	            e.preventDefault();
+	            $(this).closest('form.subscribe').submit();
+	        });
+	        
+	    });
 	}
 	
 	window.Fullstack = new Fullstack;
