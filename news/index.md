@@ -3,8 +3,10 @@ layout: page
 title: News
 icon: buildings
 ---
-<ul>
-{% for p in site.categories.news %}
-  <li>{{p.date | date: "%Y -%m-%d"}}<br /><a href="{{ p.url }}">{{ p.title }}</a></li>
+<ul class="articles-list">
+{% for p in site.categories.capital %}
+    <li>
+        <p class="date">{{ p.date | date: "%B %d, %Y" }}</p><p class="title"><a href="{{ p.url }}">{{ p.title }}</a></p>
+   </li>
 {% endfor %}
 </ul>

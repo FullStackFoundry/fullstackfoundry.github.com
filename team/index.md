@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Full Stack Team
-icon: buildings
+icon: users
 ---
 ## Boris Mann
 ### Managing Partner
