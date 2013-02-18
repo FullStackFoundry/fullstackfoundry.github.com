@@ -22,7 +22,7 @@ Lance co-founded PEER 1 Hosting with Mark Teolis in 1999. Until its acquisition 
 
 Lance has long been a technology enthusiast, and has been involved in a variety of high-tech ventures throughout his career. A serial entrepreneur, Lance has co-founded Sutton Group Realty Services, Internet Direct, E-xact Transactions and Bryght.com.
 
-## Kenny Grant
+## [Kenny Grant](http://angel.co/kennygrant)
 ### Entrepreneur in Residence, Marketing
 <a name="kenny" />
 
