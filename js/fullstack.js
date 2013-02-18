@@ -175,6 +175,20 @@
 	            $(this).closest('form.subscribe').submit();
 	        });
 	        
+	        // make footer fixed on bigass screens
+	        var winHeight = $(window).height();
+	        var footer = $('footer');
+	        var fpos = footer.position();
+	        var fbottom = fpos.top + footer.height();
+	        if(fbottom < winHeight)
+	        {
+	            footer.css({
+	               'position': 'fixed',
+	               'bottom': '0px',
+	               'left': '0px',
+	               'width': '100%'  
+	            });	            
+	        }
 	    });
 	}
 	
