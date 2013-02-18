@@ -32,7 +32,7 @@
     Fullstack.prototype.route = function() {
         var self = this;
         
-        console.log(opts.url.attr('path'));
+        //console.log(opts.url.attr('path'));
         
         // home page
         crossroads.addRoute('/', function(){

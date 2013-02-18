@@ -14,10 +14,8 @@ Subscribe below and we'll send you a note every 2 weeks or so.
 </form>
 
 <h3>Past issues</h3>
-<style type="text/css">
-<!--
-.display_archive {padding-left: 180px;}
-.campaign {line-height: 125%; margin: 5px;}
-//-->
-</style>
-<script language="javascript" src="http://us6.campaign-archive2.com/generate-js/?u=dc00cae7f39474b151101ccf3&fid=1093&show=10" type="text/javascript"></script>
+<ul>
+    <li><a href="http://us6.campaign-archive2.com/?u=dc00cae7f39474b151101ccf3&id=21544d1944" target="_blank">02/13/2013 - Connection Karma Newsletter 03: Moving on up</a></li>
+    <li><a href="http://us6.campaign-archive2.com/?u=dc00cae7f39474b151101ccf3&id=a8ebf565dd" target="_blank">01/17/2013 - Connection Karma Newsletter 02: Picking up the pace</a></li>
+    <li><a href="http://us6.campaign-archive2.com/?u=dc00cae7f39474b151101ccf3&id=02f4ce72b5" target="_blank">01/02/2013 - Introducing the Full Stack Connection Karma Newsletter</a></li>
+</ul>

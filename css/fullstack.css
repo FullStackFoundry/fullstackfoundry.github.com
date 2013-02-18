@@ -681,7 +681,7 @@ section.page ul.companies-list li img.company-logo {
 section.page h1 {
   font-size: 20pt;
   line-height: 28pt;
-  width: 520px;
+  width: 640px;
   padding: 0 0 50px 0;
 }
 section.page p {
@@ -762,4 +762,14 @@ footer ul.footer-links li a:visited.ss-icon {
 footer ul.footer-links li a.ss-icon.nopad,
 footer ul.footer-links li a:visited.ss-icon.nopad {
   margin-left: 15px;
+}
+footer ul.footer-links li a.angel-logo,
+footer ul.footer-links li a:visited.angel-logo {
+  display: inline-block;
+  position: relative;
+  top: -8px;
+  background: url('../images/angel-list-logo.png') no-repeat top left;
+  width: 20px;
+  height: 28px;
+  overflow: hidden;
 }
