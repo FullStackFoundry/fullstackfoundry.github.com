@@ -22,9 +22,15 @@ Lance co-founded PEER 1 Hosting with Mark Teolis in 1999. Until its acquisition 
 
 Lance has long been a technology enthusiast, and has been involved in a variety of high-tech ventures throughout his career. A serial entrepreneur, Lance has co-founded Sutton Group Realty Services, Internet Direct, E-xact Transactions and Bryght.com.
 
-## [Kenny Grant](http://angel.co/kennygrant)
+## [Kenny Grant](https://angel.co/kenny-grant)
 ### Entrepreneur in Residence, Marketing
 <a name="kenny" />
+
+Kenny Grant is the first Entrepreneur in Residence at Full Stack. He has worn a great number of hats and comes to us with a rich understanding of marketing and launching digital products for B2C, B2B, and enterprise.
+
+Before joining Full Stack, Kenny was incubating television based products at Invoke Labs where they built solutions for NBC Universal and BBC America. Over the last 7 years he has launched and optimized marketing campaigns for fortune 500 brands, ad networks, agencies, startups, and SMB's.
+
+Kenny will continue to work on his own projects, and help the Full Stack roster with product positioning, marketing, and strategic growth.
 
 ## Sasha Hrciuk
 ### Operations & Finance Specialist
