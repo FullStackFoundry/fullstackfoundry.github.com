@@ -5,16 +5,28 @@ icon: buildings
 ---
 StackHaus is the office in Vancouver that the [Full Stack team](/team/) shares with a number of great companies.
 
+* [View Twitter updates about #stackhaus »](https://twitter.com/search?q=%23stackhaus)
+
 ## Chloi
 
-![Chloi Logo](/images/chloi-face-500px.png)
-
-We'll link to [Chloi](http://chloi.io) as well as [Harp](http://harp.io).
+[chloi.io](http://chloi.io)
 
 ## Coherence
 
+[coherence.io](http://coherence.io)
+
 ## Contractually
+
+[contractual.ly](http://www.contractual.ly)
 
 ## Pathful
 
-<iframe src="http://snapwidget.com/in/?h=c3RhY2toYXVzfGlufDEwMHw1fDF8fG5vfDV8ZmFkZUlu" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:525px; height: 105px" ></iframe>
+[pathful.com](http://pathful.com)
+
+<hr />
+
+Our mailing address is:<br />
+55 East Cordova - Unit 604<br />
+Vancouver, BC<br />
+V9T 3Y1<br />
+Canada<br />
