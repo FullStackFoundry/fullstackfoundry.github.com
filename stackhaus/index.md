@@ -6,7 +6,9 @@ icon: buildings
 
 ![StackHaus Panorama - Photo by Boris Mann](/images/stackhaus-panorama800px.jpg)
 
-StackHaus is the office in Vancouver that the [Full Stack team](/team/) shares with a number of great companies.
+StackHaus is the office in Vancouver that the [Full Stack team](/team/) shares with a number of great companies. Here are some friendlies that you should get to know:
+
+
 
 ## [Chloi](http://chloi.io)
 
