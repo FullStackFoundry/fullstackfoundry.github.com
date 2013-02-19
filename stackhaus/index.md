@@ -13,6 +13,7 @@ StackHaus is the office in Vancouver that the [Full Stack team](/team/) shares w
 We build next generation mobile experiences for your business. Every ounce of our energy is spent getting your application in the hands of your customers so your business can advance without friction. The team is proudly working on [harp.io](http://harp.io)
 
 Website: [chloi.io](http://chloi.io), [harp.io](http://harp.io)
+
 Angel List : [Harp Platform](https://angel.co/harp-platform)
 
 
@@ -30,19 +31,22 @@ Contractually makes contracts easy for startups and freelancers, who can use it 
 Members of Contractually can use the prebuilt contract forms (or bring in their own contract forms or their lawyer’s), fill them out, edit and negotiate the contract online with other parties, and e-sign the contract when they’re ready.
 
 Website: [contractual.ly](http://www.contractual.ly)
+
 Angel List : [pathful](http://angel.co/pathful)
 
 ## Pathful
 
 Pathful provides deep, technical insights to improve the business performance of websites without the investment or technical expertise required by existing analytics solutions. Pathful analyzes every visitor interaction with all elements (images and text) generating 20 times the data of page based analytics.
 
-<<<<<<< HEAD
-<hr style="margin-bottom: 30px"/>
-=======
+
+
 Website: [pathful.com](http://pathful.com)
 Angel List : [pathful](http://angel.co/pathful)
-<hr />
->>>>>>> Updated stackhaus page
+
+
+<hr style="margin-bottom: 30px"/>
+
+
 
 ### Mailing Address
 <address>
@@ -54,3 +58,4 @@ Canada<br />
 
 * [View Twitter updates about #stackhaus »](https://twitter.com/search?q=%23stackhaus)
 * [Photos on Flickr tagged with 'stackhaus' »](http://www.flickr.com/photos/tags/stackhaus/)
+
