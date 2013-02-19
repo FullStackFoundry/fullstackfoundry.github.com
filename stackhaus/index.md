@@ -42,11 +42,13 @@ Pathful provides deep, technical insights to improve the business performance of
 
 ### Mailing Address
 <address>
-[55 East Cordova](http://goo.gl/maps/JUVit) - Unit 604<br />
+55 East Cordova - Unit 604<br />
 Vancouver, BC<br />
 V9T 3Y1<br />
 Canada<br />
 </address>
+
+Directions via [Google Maps](http://goo.gl/maps/JUVit)
 
 * [View Twitter updates about #stackhaus »](https://twitter.com/search?q=%23stackhaus)
 * [Photos on Flickr tagged with 'stackhaus' »](http://www.flickr.com/photos/tags/stackhaus/)
