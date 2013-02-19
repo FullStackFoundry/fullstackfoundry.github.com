@@ -16,7 +16,7 @@ We build next generation mobile experiences for your business. Every ounce of ou
 
 ## [Coherence](http://coherence.io)
 
-The Coherance team is working on "Cloud Analytics for Apps &amp; APIs. Sign up for the beta today - [caliper.io](http://caliper.io)
+The Coherance team is working on "Cloud Analytics for Apps &amp; APIs". Sign up for the beta today - [caliper.io](http://caliper.io)
 
 
 
@@ -48,4 +48,5 @@ Canada<br />
 
 * [View Twitter updates about #stackhaus »](https://twitter.com/search?q=%23stackhaus)
 * [Photos on Flickr tagged with 'stackhaus' »](http://www.flickr.com/photos/tags/stackhaus/)
+* [Photos on Instagram tagged with 'stackhaus' »](http://statigr.am/tag/stackhaus/)
 
