@@ -42,7 +42,7 @@ Pathful provides deep, technical insights to improve the business performance of
 
 ### Mailing Address
 <address>
-55 East Cordova - Unit 604<br />
+[55 East Cordova](http://goo.gl/maps/JUVit) - Unit 604<br />
 Vancouver, BC<br />
 V9T 3Y1<br />
 Canada<br />
