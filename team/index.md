@@ -6,7 +6,8 @@ icon: users
 ## [Boris Mann](http://angel.co/borismann)
 ### Managing Partner
 <a name="boris"/>
-(/images/p1.jpg)
+
+![Photo by Boris Mann](/images/p1.jpg)
 Boris Mann is founder and managing partner of Full Stack, a "napkin capital" angel investment firm that works with and funds early stage technology companies.
 
 Boris has been active in the Vancouver startup ecosystem for almost a decade. His first local startup was Bryght, the first commercial Drupal company. He then went on to co-found Bootup Labs, the first startup accelerator in Canada.
