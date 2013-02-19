@@ -8,7 +8,7 @@ icon: buildings
 
 StackHaus is the office in Vancouver that the [Full Stack team](/team/) shares with a number of great companies.
 
-## [chloi.io](http://chloi.io)
+## [Chloi](http://chloi.io)
 
 We build next generation mobile experiences for your business. Every ounce of our energy is spent getting your application in the hands of your customers so your business can advance without friction. The team is proudly working on [harp.io](http://harp.io)
 
@@ -20,7 +20,7 @@ The Coherance team is working on "Cloud Analytics for Apps &amp; APIs. Sign up f
 
 
 
-## [contractual.ly](http://www.contractual.ly)
+## [Contractually](http://www.contractual.ly)
 
 Contractually makes contracts easy for startups and freelancers, who can use it to make a contract from start to finish.
 
@@ -28,7 +28,7 @@ Members of Contractually can use the prebuilt contract forms (or bring in their 
 
 
 
-## [pathful.com](http://pathful.com)
+## [Pathful](http://pathful.com)
 
 Pathful provides deep, technical insights to improve the business performance of websites without the investment or technical expertise required by existing analytics solutions. Pathful analyzes every visitor interaction with all elements (images and text) generating 20 times the data of page based analytics.
 
