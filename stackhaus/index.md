@@ -49,6 +49,8 @@ Canada<br />
 </address>
 
 
+
+
 ### Latest banter from the office
 * [View Twitter updates about #stackhaus »](https://twitter.com/search?q=%23stackhaus)
 * [Photos on Flickr tagged with 'stackhaus' »](http://www.flickr.com/photos/tags/stackhaus/)
