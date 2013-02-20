@@ -292,7 +292,8 @@ section.home ul.poly-links {
   position: absolute;
   top: 80px;
   right: 0;
-  z-index: 100;
+  /* z-index: 100; */
+
 }
 section.home ul.poly-links li {
   display: inline-block;
@@ -549,16 +550,10 @@ section.contact div.mask div.white-bottom {
   position: absolute;
 }
 span.hex {
-  z-index: 100;
   display: block;
   position: relative;
-  -ms-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
   width: 62px;
   height: 75px;
-  overflow: hidden;
   padding: 0;
   margin: 0;
   text-align: center;
@@ -574,17 +569,14 @@ span.hex span.shape {
 span.hex span.ss-icon {
   display: block;
   position: absolute;
-  -ms-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
   width: 62px;
   height: 75px;
   top: 0;
   left: 0;
   text-align: center;
-  padding-top: 21px;
+  padding-top: 40px;
   font-size: 25px;
+  line-height: 0;
 }
 span.hex.white span.shape {
   color: #ffffff;
@@ -772,4 +764,9 @@ footer ul.footer-links li a:visited.angel-logo {
   width: 20px;
   height: 28px;
   overflow: hidden;
+}
+@media screen and (max-device-width: 480px) {
+  body {
+    background: #ccc;
+  }
 }

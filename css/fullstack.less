@@ -245,7 +245,7 @@ section.home {
         position: absolute;
         top: 80px;
         right: 0;
-        z-index: 100;
+        /* z-index: 100; */
         li {
             display: inline-block;
             width: 85px;
@@ -494,13 +494,10 @@ section.contact {
 }
 
 span.hex {
-    z-index: 100;
     display: block;
-    position: relative;  
-    .box-sizing(border-box);
+    position: relative;
     width: 62px;
     height: 75px;
-    overflow: hidden;
     padding: 0;
     margin: 0;
     text-align: center;
@@ -510,19 +507,19 @@ span.hex {
         top: 29px;
         left: -8px;
         line-height: 0;
-        font-size: 85px;      
+        font-size: 85px;
     }
     span.ss-icon {
         display: block;
         position: absolute;
-        .box-sizing(border-box);
         width: 62px;
         height: 75px;
         top: 0;
         left: 0;
         text-align: center;
-        padding-top: 21px;
+        padding-top: 40px;
         font-size: 25px;
+        line-height: 0;
     }
     &.white {
         span.shape {
@@ -711,4 +708,13 @@ footer {
             }
         }
     }
+}
+
+
+@media screen and (max-device-width: 480px){
+
+    body {
+        background: #ccc;
+    }
+  
 }

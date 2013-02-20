@@ -189,6 +189,13 @@
 	               'width': '100%'  
 	            });	            
 	        }
+	        
+	        // fix firefox positioning on hex elements
+            if($.browser.mozilla == true) 
+            {
+    	        $('span.hex span.ss-icon').css({ 'padding-top': '33px' });
+    	        $('a.angel-logo').css({ 'top': '9px' });
+            }	        
 	    });
 	}
 	
