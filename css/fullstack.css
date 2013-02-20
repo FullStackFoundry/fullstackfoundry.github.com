@@ -292,8 +292,7 @@ section.home ul.poly-links {
   position: absolute;
   top: 80px;
   right: 0;
-  /* z-index: 100; */
-
+  z-index: 50;
 }
 section.home ul.poly-links li {
   display: inline-block;
@@ -764,6 +763,12 @@ footer ul.footer-links li a:visited.angel-logo {
   width: 20px;
   height: 28px;
   overflow: hidden;
+}
+section.tools,
+section.talent,
+section.capital,
+section.contact {
+  z-index: 60;
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   div.bg img {
