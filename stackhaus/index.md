@@ -44,7 +44,7 @@ Pathful provides deep, technical insights to improve the business performance of
 <address>
 55 East Cordova - Unit 604<br />
 Vancouver, BC<br />
-V9T 3Y1<br />
+V6A 0A5<br />
 Canada<br />
 </address>
 
