@@ -41,5 +41,5 @@ You will execute marketing strategies for cutting edge companies that have recen
 * If you like Tacos ( Taco Wednesdays!!)
 
        
-       <a href="#"><img src=http://fullstack.ca/image/apply-now.png"></a>
+       <a href="#"><img src=http://fullstack.ca/images/apply-now.png"></a>
        
