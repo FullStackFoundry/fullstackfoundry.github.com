@@ -40,5 +40,6 @@ You will execute marketing strategies for cutting edge companies that have recen
 * Previously worked in a startup environment/setting
 * If you like Tacos ( Taco Wednesdays!!)
 
-        
-       <a href="#" class="btn black subscribe-btn"><span class="ss-icon">email</span> Apply Now</a>
+       
+       <a href="#"><img src=http://fullstack.ca/image/apply-now.png"></a>
+       
