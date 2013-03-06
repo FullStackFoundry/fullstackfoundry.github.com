@@ -11,7 +11,7 @@ The Marketing Intern will work closely with the Full Stack Managing Partners and
 
 Interns should expect to be very hands-on in many aspects of the business and should feel comfortable talking with partners and customers.
 
-# Responsibilities
+<b>Responsibilities</b>
 
 * Work with Partners to execute Marketing Campaigns and Product Launches
 * Write content for websites, user interfaces, press releases, and email newsletters
@@ -22,7 +22,7 @@ Interns should expect to be very hands-on in many aspects of the business and sh
 * General research and other tasks (you are working for a startup after-all)
 
 
-# You should be..
+<b>You should be..</b>
 
 * Organized and detail-oriented and a self-starter
 * Strong communication and interpersonal skills
@@ -35,12 +35,10 @@ Interns should expect to be very hands-on in many aspects of the business and sh
 
 You will execute marketing strategies for cutting edge companies that have recently acquired funding from the Full Stack foundation. Commitment is 20+ hours a week for 3 months. Office is located in Vancouver, BC. Days to be worked are flexible based on your schedule. The internship is unpaid. This is a great opportunity to build your portfolio and extend your professional network. You will be working out of an office with other startup companies and seasoned entrepreneurs.
 
-# Bonus points for: 
+<b> Bonus points for: </b>
 * Being awesome and running your own blog 
 * Previously worked in a startup environment/setting
 * If you like Tacos ( Taco Wednesdays!!)
 
         
-        <p class="stackhaus-btn"><a href="/stackhaus/"
-        title="StackHaus is the Full Stack office, shared with some
-        other great startup teams" class="grey-btn"><span class="ss-icon">eye</span> Check Out StackHaus</a></p>
+       <a href="#" class="btn black subscribe-btn"><span class="ss-icon">email</span> Apply Now</a>
