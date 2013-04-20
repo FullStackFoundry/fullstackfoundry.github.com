@@ -2,6 +2,7 @@
 layout: page
 title: StackHaus
 icon: buildings
+published: false
 ---
 
 ![StackHaus Panorama - Photo by Boris Mann](/images/stackhaus-panorama800px-opt.jpg)
@@ -48,11 +49,12 @@ V6A 0A5<br />
 Canada<br />
 </address>
 
-
+### Live Webcam
+<a name="webcam" />
+<img src="http://64.46.23.103/stackhaus.jpg" />
 
 
 ### Latest banter from the office
 * [View Twitter updates about #stackhaus »](https://twitter.com/search?q=%23stackhaus)
 * [Photos on Flickr tagged with 'stackhaus' »](http://www.flickr.com/photos/tags/stackhaus/)
 * [Photos on Instagram tagged with 'stackhaus' »](http://statigr.am/tag/stackhaus/)
-
