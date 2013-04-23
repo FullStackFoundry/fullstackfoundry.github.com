@@ -2,7 +2,6 @@
 layout: page
 title: StackHaus
 icon: buildings
-published: false
 ---
 
 ![StackHaus Panorama - Photo by Boris Mann](/images/stackhaus-panorama800px-opt.jpg)
