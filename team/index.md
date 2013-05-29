@@ -34,7 +34,7 @@ Before joining Full Stack, Kenny was incubating television based products at Inv
 
 Kenny will continue to work on his own projects, and help the Full Stack roster with product positioning, marketing, and strategic growth.
 
-## Sasha Hrciuk
+## Sasha Hryciuk
 ### Operations & Finance Specialist
 <a name="sasha" />
 
