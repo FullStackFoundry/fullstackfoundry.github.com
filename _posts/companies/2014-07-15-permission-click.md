@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contractually
-website: http://www.contractual.ly
-logo: /images/contractually-logo.png
-funded: 2013-02
+title: Permission Click
+website: http://www.permissionclick.com
+logo: /images/logos/permissionclick.png
+location: Winnipeg, MB
 icon: buildings
 category: companies
 ---
 
-Contractually lets you simplify your contracts process, enabling you to create, negotiate and e-sign your contracts online.
+Permission Click is a digital permission slip and payment system designed for schools. It is simple enough to be used within a single school, but powerful enough to enable an entire school district to go paperless.

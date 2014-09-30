@@ -3,7 +3,7 @@ layout: page
 title: Contractually
 website: http://www.contractual.ly
 logo: /images/contractually-logo.png
-funded: 2013-02
+location: Vancouver, BC
 icon: buildings
 category: companies
 ---

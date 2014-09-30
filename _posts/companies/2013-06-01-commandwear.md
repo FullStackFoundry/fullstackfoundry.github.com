@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contractually
-website: http://www.contractual.ly
-logo: /images/contractually-logo.png
-funded: 2013-02
+title: CommandWear
+website: http://www.commandwear.com
+location: Vancouver, BC
+logo: /images/logos/commandwear.png
 icon: buildings
 category: companies
 ---
 
-Contractually lets you simplify your contracts process, enabling you to create, negotiate and e-sign your contracts online.
+CommandWear is a wearables company that specializes in solutions for the police, public safety, and security markets. 

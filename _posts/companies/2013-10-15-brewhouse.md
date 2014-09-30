@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contractually
-website: http://www.contractual.ly
-logo: /images/contractually-logo.png
-funded: 2013-02
+title: Brewhouse
+website: http://brewhouse.io
+location: Vancouver, BC
+logo: /images/logos/brewhouse.png
 icon: buildings
 category: companies
 ---
 
-Contractually lets you simplify your contracts process, enabling you to create, negotiate and e-sign your contracts online.
+Brewhouse is the top Ruby on Rails product consulting team in Vancouver. They are also the creators of a number of products, including [Goodbits](http://goodbits.io), the easiest way to create, curate, and send link-based weekly newsletters.

@@ -3,7 +3,7 @@ layout: page
 title: Input Logic
 website: http://inputlogic.ca
 logo: /images/input-logo.png
-funded: 2013-01
+location: Nanaimo, BC
 icon: buildings
 category: companies
 ---

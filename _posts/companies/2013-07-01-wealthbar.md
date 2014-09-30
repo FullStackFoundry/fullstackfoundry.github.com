@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Contractually
-website: http://www.contractual.ly
-logo: /images/contractually-logo.png
-funded: 2013-02
+title: Wealthbar
+website: http://www.wealthbar.com
+location: Vancouver, BC
+logo: /images/logos/wealthbar.png
 icon: buildings
 category: companies
 ---
 
-Contractually lets you simplify your contracts process, enabling you to create, negotiate and e-sign your contracts online.
+WealthBar is a fee-for-service Canadian financial advisor that operates online, with beautiful and simple to use planning and portfolio review tools.
