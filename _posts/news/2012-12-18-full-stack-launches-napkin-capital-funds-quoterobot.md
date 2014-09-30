@@ -3,6 +3,7 @@ layout: post
 title: Full Stack launches as Vancouver example of 'napkin capital', funds QuoteRobot team
 icon: buildings
 categories: news
+tags: [B2B, Input Logic, funding]
 ---
 
 <p class="intro">Full Stack is a new kind of investment vehicle we're calling "napkin capital". Napkin capital focuses on relationships with great talent, is opinionated about tools and best practices, and provides angel-stage capital at the earliest stages of web startups.</p>

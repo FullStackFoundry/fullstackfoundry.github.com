@@ -2,29 +2,29 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %} {{ page.title }} :: {% endif %} Full Stack</title>
-  <meta name="description" content="Full Stack - Napkin stage talent, tools, and capital in Vancouver, BC.">
+  <title>{% if page.title %} {{ page.title }} :: {% endif %}Full Stack</title>
+  <meta name="description" content="{{ site.name }} - {{ site.description }}">
 <!--  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" /> -->
-  
+
   <meta property="og:title" content="Full Stack - Talent + Tools + Capital" />
   <meta property="og:type" content="company" />
   <meta property="og:site_name" content="Full Stack - Talent + Tools + Capital" />
   <meta property="og:description" content="We're a different kind of angel investment firm that we like to call 'napkin capital'." />
-  <meta property="og:url" content="fullstack.ca" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:image" content="" />
-    
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" /></script>
-  
-  <link rel="shortcut icon" href="/images/favicon.png" /> 	  
-  <link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/2e558a78-9bc0-4aff-bcd3-a80bf3534d07.css"/>
-  <link type="text/css" rel="stylesheet" href="/fonts/symbolset/ss-social.css" /> 
-  <link type="text/css" rel="stylesheet" href="/fonts/symbolset/ss-standard.css" />  
 
-  <link rel="alternate" type="application/rss+xml" title="Full Stack RSS feed" href="/feed.xml" />
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" /></script>
+
+  <link rel="shortcut icon" href="/images/favicon.png" />
+  <link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/2e558a78-9bc0-4aff-bcd3-a80bf3534d07.css"/>
+  <link type="text/css" rel="stylesheet" href="/fonts/symbolset/ss-social.css" />
+  <link type="text/css" rel="stylesheet" href="/fonts/symbolset/ss-standard.css" />
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} RSS feed" href="/feed.xml" />
 
   <!--[if IE]>
       <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->  
+  <![endif]-->
   <link rel="stylesheet" href="/css/fullstack.css">
 </head>
 
