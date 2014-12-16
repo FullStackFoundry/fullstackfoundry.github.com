@@ -3,7 +3,7 @@ layout: page
 title: Brewhouse
 website: http://brewhouse.io
 location: Vancouver, BC
-logo: /images/logos/brewhouse.png
+logo: /images/logos/brewhouse.jpeg
 icon: buildings
 category: companies
 ---

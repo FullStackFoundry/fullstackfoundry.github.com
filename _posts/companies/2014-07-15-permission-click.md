@@ -2,7 +2,7 @@
 layout: page
 title: Permission Click
 website: http://www.permissionclick.com
-logo: /images/logos/permissionclick.png
+logo: /images/logos/permissionclick.jpg
 location: Winnipeg, MB
 icon: buildings
 category: companies
