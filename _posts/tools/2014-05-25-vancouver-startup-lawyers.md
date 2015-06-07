@@ -25,8 +25,8 @@ Below are links to three great firms & lawyers in Vancouver. Not in Vancouver? A
 * [Mark Longo]
 * [James Smith]
 
-## [Goodmans][gm]
-<!-- ![Goodmans](/images/logos/goodmans.png) -->
+## [MLT][mlt]
+<!-- ![Goodmans](/images/logos/mlt.gif) -->
 
 * [Gal Smolar]
 
@@ -42,7 +42,7 @@ Our portfolio company [Contractually] is a great tool to use all the great templ
 [Contractually]:http://www.contractual.ly/
 [ll]:http://www.lawsonlundell.com/
 [lw]:http://www.lwlaw.com/
-[gm]:http://www.goodmans.ca/
+[mlt]:http://www.mlt.com/
 [Justin Young]:https://angel.co/justin-young-1
 [Gal Smolar]:https://angel.co/galsmolar
 [Mark Longo]:https://angel.co/marklongo
