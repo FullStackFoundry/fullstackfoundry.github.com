@@ -4,6 +4,12 @@ title: Full Stack Common Seed Term Sheet (Canada)
 icon: buildings
 permalink: /resources/fs-common-termsheet/
 ---
+
+<!--
+  This document is licensed under CC0 1.0 Universal. See LICENSE.txt in the same folder.
+  Announcement article can be found here: http://fullstack.ca/tools/canadian-term-sheets/
+-->
+
 _The following is a summary of the basic terms and conditions of a proposed common share financing of COMPANY NAME. This Term Sheet is not a commitment to complete the proposed financing, which is conditional on the completion of due diligence, legal review and final documentation that is satisfactory to the Company and the Investor._
 
 ￼Summary of Proposed Terms for Common Share Financing
