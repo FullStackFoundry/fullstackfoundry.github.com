@@ -9,7 +9,7 @@ tags: legal, Canada, term sheet
 
 I'm super inspired by [Bryce of Indie.vc open sourcing his term sheets](http://bryce.vc/post/120533439475/indie-vc-termsheets-on-github), so it's about time that I posted the Full Stack term sheets, too.
 
-I've taken a couple of attempts at working together with other groups in Canada to release a true universal set of seed financing documents, much as the US has a handful of similar packages of documents to choose from. But, there hasn't been an interest in moving particularly quickly. I've always shared these documents as examples -- for both founders & funders -- so it only makes sense to fully open source them. We completed over a dozen financings in a 2 year period, with 9 companies. About half of them were common stock deals using this [Full Stack Common Seed term sheet][webcommonseed].
+I've taken a couple of attempts at working together with other groups in Canada to release a true universal set of seed financing documents, much as the US has a handful of similar packages of documents to choose from. But, there hasn't been an interest in moving particularly quickly. I've always shared these documents as examples -- for both founders & funders -- so it only makes sense to fully open source them. We completed over a dozen financings in a 2 year period, with 9 companies. About half of them were common stock deals using this [Full Stack Common Seed term sheet][ghcommonseed].
 
 We also have a convertible debt term sheet that we've used, but increasingly I'm convinced that convertible debt is not the right method for early stage financing, so I won't be sharing it for now.
 
