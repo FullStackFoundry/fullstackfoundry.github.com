@@ -19,7 +19,7 @@ Everything in the resources folder is free to use, licensed under CC0 1.0 Univer
 
 ## Full Stack Common Seed
 
-* [web version][webcommonseed]
+* [Github repo][ghrepo]
 * [PDF][pdfcommonseed]
 * [source document on Github][ghcommonseed]
 
@@ -29,6 +29,6 @@ Other examples/open source versions of term sheets and related legal documents i
 
 * [Cap, No Discount SAFE for Canada on StartupNorth](http://startupnorth.ca/2014/09/05/making-canada-safe/)
 
-[pdfcommonseed]:http://fullstack.ca/resources/Full_Stack_Common_Seed_Term_Sheet_2014-EXAMPLE.pdf
-[webcommonseed]:http://fullstack.ca/resources/fs-common-termsheet/
-[ghcommonseed]:https://github.com/FullStackFoundry/fullstackfoundry.github.com/blob/master/resources/fullstackcommonseedtermsheet.md
+[ghrepo]:https://github.com/FullStackFoundry/common-seed-termsheets
+[pdfcommonseed]:https://github.com/FullStackFoundry/common-seed-termsheets/raw/master/Full_Stack_Common_Seed_Term_Sheet_2014-EXAMPLE.pdf
+[ghcommonseed]:https://github.com/FullStackFoundry/common-seed-termsheets/blob/master/fullstack-commonseed-termsheet.md
